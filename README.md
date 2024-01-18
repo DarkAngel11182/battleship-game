@@ -1,4 +1,3 @@
-# battleship-game
 # Battleship Game
 
 ## Overview
@@ -24,36 +23,6 @@ To play the Battleship game, follow these steps:
    ```bash
    git clone https://github.com/DarkAngel11182/User-Interface-Programming/battleship-game.git
 
-
-Certainly! Here's an example README file for your Battleship game. You can customize it with your project-specific details:
-
-markdown
-Copy code
-# Battleship Game
-
-## Overview
-
-This is a simple implementation of the classic Battleship game in Java. It provides a console-based game where players can strategically place their ships and take turns to attack the opponent's fleet.
-
-## Table of Contents
-
-- [How to Run](#how-to-run)
-- [Game Rules](#game-rules)
-- [Controls](#controls)
-- [Screenshots](#screenshots)
-- [Credits](#credits)
-- [License](#license)
-
-## How to Run
-
-To play the Battleship game, follow these steps:
-
-1. Ensure you have Java installed on your computer.
-2. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/battleship-game.git
-
 1. Navigate to the project directory:
 cd battleship-game
 
@@ -65,7 +34,7 @@ java BattleshipGame
 
 4. Follow the on-screen instructions to play the game.
 
-Game Rules
+## Game Rules
 Battleship is a two-player strategy game where the objective is to sink the opponent's fleet before they sink yours. 
 
 Here are the basic rules:
